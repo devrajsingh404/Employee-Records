@@ -4,3 +4,5 @@ E103 Simran Finance Accountant 45000
 E104 Raj Sales Executive 40000
 E105 Neha IT Tester 42000
 E106 Diya Real State 80000
+E107 Khozzo Room 49000
+E108 Riya Girls PG 60000
